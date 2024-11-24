@@ -29,3 +29,36 @@ java Main
 🎓 Agradecimentos
 Este projeto foi implementado como parte do curso Java COMPLETO Programação Orientada a Objetos + Projetos, ministrado por Nelio Alves.
 
+
+
+
+Chess System in Java
+This project is a complete chess system that runs in the console, developed during the Java course by Professor Nelio Alves on Udemy. It was implemented with a focus on teaching the fundamentals of object-oriented programming and programming logic in Java.
+
+🧩 Features
+Chess Pieces: Each piece is implemented as an independent object, respecting its specific movement rules.
+Board: Represented as an object that manages the position and interaction of the pieces.
+Game Rules: Includes the main chess rules, such as valid movements, captures, and check verification.
+Console Interactivity: Players make moves by entering commands directly in the console.
+📚 About the Development
+The project was developed over several lessons in the course, focusing on:
+
+Data structures like arrays for the board.
+Application of Object-Oriented principles, such as inheritance and polymorphism.
+Exception handling for movement validation.
+🚀 How to Run
+Make sure Java is installed on your machine.
+Clone the repository:
+bash
+Copiar código
+git clone https://github.com/your-username/chess-system.git  
+Compile the files:
+bash
+Copiar código
+javac *.java  
+Run the program:
+bash
+Copiar código
+java Main  
+🎓 Acknowledgments
+This project was implemented as part of the course Java COMPLETO Programação Orientada a Objetos + Projetos, taught by Nelio Alves.
