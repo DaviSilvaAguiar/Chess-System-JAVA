@@ -17,7 +17,7 @@ Certifique-se de ter o Java instalado na sua máquina.
 Clone o repositório:
 bash
 Copiar código
-git clone https://github.com/seu-usuario/repo-xadrez.git
+git clone https://github.com/DaviSilvaAguiar/Chess-System-JAVA.git
 Compile os arquivos:
 bash
 Copiar código
@@ -51,7 +51,7 @@ Make sure Java is installed on your machine.
 Clone the repository:
 bash
 Copiar código
-git clone https://github.com/your-username/chess-system.git  
+git clone https://github.com/DaviSilvaAguiar/Chess-System-JAVA.git  
 Compile the files:
 bash
 Copiar código
